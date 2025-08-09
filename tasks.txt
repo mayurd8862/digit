@@ -1,0 +1,18 @@
+Day 1 – Statistics & EDA
+Analyze customer churn patterns
+Detect anomalies in transaction data
+Automate EDA report generation
+
+Day 2 – Regression Models
+Predict retail sales
+Forecast server load for IT ops
+Estimate delivery times for logistics
+
+
+simple linear Regression
+multivariable linear regreassion
+decision trees regressor
+random forest regressor
+Support vector regressor
+xgboost
+polynomial regressor
